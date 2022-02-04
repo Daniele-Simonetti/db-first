@@ -1,6 +1,7 @@
 <?php 
 $cars = [
   [
+    'id' => 1,
     'model' => 'Model3',
     'img' => 'https://tesla-cdn.thron.com/delivery/public/image/tesla/457dd9fa-6e32-43b1-a6cf-9b3d76e9e181/bvlatuR/std/2232x720/global-order-hero',
     'brand' => 'Tesla',
@@ -15,6 +16,7 @@ $cars = [
     'insurance' => 'included',
   ],
   [
+    'id' => 2,
     'model' => 'Cybertruck',
     'img' => 'https://cdn.dmove.it/images/20849/CyberMain.jpg',
     'brand' => 'Tesla',
@@ -29,6 +31,7 @@ $cars = [
     'insurance' => 'included',
   ],
   [
+    'id' => 3,
     'model' => 'Fiesta',
     'img' => 'https://cdn.motor1.com/images/mgl/9Yv30/s3/ford-fiesta-st-line-2022.jpg',
     'brand' => 'Ford',
@@ -43,6 +46,7 @@ $cars = [
     'insurance' => 'not included',
   ],
   [
+    'id' => 4,
     'model' => 'Q8 Premium',
     'img' => 'https://www.ccarprice.com/products/Audi-Q8-Premium-55-TFSI-qua.jpg',
     'brand' => 'Audi',
@@ -57,6 +61,7 @@ $cars = [
     'insurance' => 'included',
   ],
   [
+    'id' => 5,
     'model' => 'Kangoo',
     'img' => 'https://upload.wikimedia.org/wikipedia/commons/4/4a/Renault_Kangoo_I_front_20090121.jpg',
     'brand' => 'Reanult',
@@ -71,6 +76,7 @@ $cars = [
     'insurance' => 'included',
   ],
   [
+    'id' => 6,
     'model' => 'McLaren 720s',
     'img' => 'https://www.autoblog.it/app/uploads/2020/06/8720slemansmclarenorangefront3-4.jpg',
     'brand' => 'Petrol',
@@ -84,6 +90,7 @@ $cars = [
     'insurance' => 'included',
   ],
   [
+    'id' => 7,
     'model' => 'T-Roc',
     'img' => 'https://cdn.motor1.com/images/mgl/VPPPl/s1/volkswagen-t-roc-r-2022.jpg',
     'brand' => 'Volkswagen',
@@ -98,6 +105,7 @@ $cars = [
     'insurance' => 'not included',
   ],
   [
+    'id' => 8,
     'model' => '500',
     'img' => 'https://statics.quattroruote.it/content/dam/quattroruote/it/foto/2021/09/22/fiat_500_red_2021_/gallery/rbig/2021-fiat-500-red-01.jpg',
     'brand' => 'Fiat',
@@ -112,6 +120,7 @@ $cars = [
     'insurance' => 'included',
   ],
   [
+    'id' => 9,
     'model' => 'Twingo',
     'img' => 'https://immagini.alvolante.it/sites/default/files/styles/anteprima_lunghezza_640_jpg/public/serie_auto_galleria/2014/09/renault_twingo_post.png?itok=q76DEM8w',
     'brand' => 'Renault',
@@ -126,6 +135,7 @@ $cars = [
     'insurance' => 'not included',
   ],
   [
+    'id' => 10,
     'model' => 'Phantom',
     'img' => 'https://www.autoscout24.it/assets/auto/images/model/rolls-royce/rolls-royce-phantom/rolls-royce-phantom-l-01.jpg',
     'brand' => 'Rolls-Royce',
